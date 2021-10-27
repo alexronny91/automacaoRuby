@@ -1,0 +1,5 @@
+## Scripts para execução local
+default:            --publish-quiet -p pretty
+
+pretty:             --format pretty
+ci:                 --format progress
